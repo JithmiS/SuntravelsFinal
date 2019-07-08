@@ -1,0 +1,21 @@
+
+fsquid:S001003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö–‹Ò
+‡squid:S13197"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ìã¼Ê
+esquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôš½C
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÃÓ
+isquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á²«
+fsquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á²«
+isquid:S001173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö–‹Ò
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªé–âûÿÿÿÿ
+lsquid:S00116"URename this field "start_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ı³W
+psquid:S00116	"SRename this field "end_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¸Ç¢ÿÿÿÿÿ
+‹squid:S1319"tThe type of the "roomtypes" object should be an interface such as "List" rather than the implementation "ArrayList".(ÉÃÓ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìñ…´ıÿÿÿÿ
+‹squid:S1319;"tThe type of the "roomtypes" object should be an interface such as "List" rather than the implementation "ArrayList".(íÁÑø
+fsquid:S001007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìã¼Ê
+ksquid:S00100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‡ããÿÿÿÿÿ
+fsquid:S00100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÁÑø
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÃÓ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÃÓ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªé–âûÿÿÿÿ
+ksquid:S00116"SRename this field "hotel_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‰Åø

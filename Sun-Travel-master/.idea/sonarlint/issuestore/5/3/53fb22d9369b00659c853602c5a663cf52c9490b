@@ -1,0 +1,24 @@
+
+esquid:UselessImportCheck"5Remove this unused import 'javax.persistence.Entity'.(úƒßıûÿÿÿÿ8¨ÎÛ¼-
+ksquid:UselessImportCheck";Remove this unused import 'javax.persistence.ColumnResult'.(ÀğÛŠøÿÿÿÿ8¨ÎÛ¼-
+psquid:UselessImportCheck"@Remove this unused import 'javax.persistence.ConstructorResult'.(ø®ÓŠüÿÿÿÿ8¨ÎÛ¼-
+rsquid:UselessImportCheck"BRemove this unused import 'javax.persistence.SqlResultSetMapping'.(²™™Îüÿÿÿÿ8¨ÎÛ¼-
+isquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(Ÿˆœ”8™Ü“½-
+\squid:UselessImportCheck"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8±’ÄÛ¼-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ƒÕÕüÿÿÿÿ8áÁ”½-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÀĞéùÿÿÿÿ8áÁ”½-
+rsquid:S001002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŞòøúÿÿÿÿ8áÁ”½-
+rsquid:S001006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÚçşÿÿÿÿ8áÁ”½-
+msquid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™óŞ­8áÁ”½-
+rsquid:S00100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÿé÷üÿÿÿÿ8áÁ”½-
+lsquid:S00100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¦Š8áÁ”½-
+msquid:S00100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªêî8áÁ”½-
+wsquid:S00116
+"SRename this field "hotel_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òˆïüşÿÿÿÿ8áÁ”½-
+ssquid:S00116"TRename this field "type_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÅ¦‡8áÁ”½-
+zsquid:S00116"VRename this field "no_of_rooms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö×‹æûÿÿÿÿ8áÁ”½-
+ysquid:S00116"URename this field "max_adults" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(· ²óùÿÿÿÿ8áÁ”½-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÀĞéùÿÿÿÿ8áÁ”½-
+usquid:S001176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÚçşÿÿÿÿ8áÁ”½-
+usquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÿé÷üÿÿÿÿ8áÁ”½-
+psquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªêî8áÁ”½-

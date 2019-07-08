@@ -1,0 +1,10 @@
+
+bsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(¤Ê¥¨
+Wsquid:S4684H"@Replace this persistent entity with a simple POJO or DTO object.(¦…¼Í
+Usquid:UselessImportCheck"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê8ÿÝÂ¼-
+Wsquid:S46849"@Replace this persistent entity with a simple POJO or DTO object.(Ï›¼â
+msquid:UselessImportCheck"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÿÝÂ¼-
+gsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(óâ´ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(ÂÖùò
+_squid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8Èº¶®¼-

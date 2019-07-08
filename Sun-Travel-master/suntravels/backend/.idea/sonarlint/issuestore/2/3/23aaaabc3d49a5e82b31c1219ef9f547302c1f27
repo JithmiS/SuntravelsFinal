@@ -1,0 +1,15 @@
+
+„squid:S4165"fRemove this useless assignment; "hotel_id" already holds the assigned value along all execution paths.(±—‹í8°üÅ²»-
+wsquid:S00116"SRename this field "end_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¸Ç¢ÿÿÿÿÿ8üš¼´»-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¤û8ıÉşéº-
+usquid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÄ¾øÿÿÿÿ8™ÚÁ´»-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¤û8‰àÀ´»-
+usquid:S00116"VRename this field "contract_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª—ÅÎ8áÕüéº-
+hsquid:UselessImportCheck"=Remove this unused import 'javax.persistence.GenerationType'.(ı÷õ¡8»Ñİ²»-
+ssquid:S00116"URename this field "start_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ı³W8ù¸À´»-
+hsquid:UselessImportCheck"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚8»Ñİ²»-
+Lsquid:S1172".Remove this unused method parameter "hotelId".(Å¤û8‰àÀ´»-
+psquid:S00117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óà £8»¨€êº-
+usquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¶‡·ÿÿÿÿÿ8ğÿ½´»-
+rsquid:S00116"SRename this field "hotel_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‰Åø8°üÅ²»-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¤û8Şê¼´»-

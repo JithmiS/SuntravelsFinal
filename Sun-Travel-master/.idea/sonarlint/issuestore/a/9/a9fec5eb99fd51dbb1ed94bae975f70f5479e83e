@@ -1,0 +1,16 @@
+
+wsquid:S00116"XRename this field "check_in_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÂÔ²8ÒïüÀ¼-
+3squid:S1700
+"Rename field "search"(§Á­©8ó¿ŠÁ¼-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù•¼˜şÿÿÿÿ8×îŒÁ¼-
+”squid:S1319"qThe type of the "search" object should be an interface such as "List" rather than the implementation "ArrayList".(ò¤šüÿÿÿÿ8‰³ŒÁ¼-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôğì†8×îŒÁ¼-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¤šüÿÿÿÿ8‰³ŒÁ¼-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¤šüÿÿÿÿ8‰³ŒÁ¼-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ´­Ì8×îŒÁ¼-
+squid:S1319""pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‚ÖªÔ8×îŒÁ¼-
+squid:S1319&"qThe type of the "search" object should be an interface such as "List" rather than the implementation "ArrayList".(îà°…8×îŒÁ¼-
+vsquid:S00116	"WRename this field "no_of_nights" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¿î8æ’şÀ¼-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ´­Ì8×îŒÁ¼-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÅªÊıÿÿÿÿ8×îŒÁ¼-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÅªÊıÿÿÿÿ8×îŒÁ¼-

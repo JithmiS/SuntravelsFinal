@@ -1,0 +1,6 @@
+
+osquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ù™a8ÿ‰Ò¯»-
+hsquid:UselessImportCheck"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚8ªšÁ”»-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´€ùûÿÿÿÿ8õˆ§”»-
+rsquid:S00116"SRename this field "hotel_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‰Åø8Á“”»-
+hsquid:UselessImportCheck"=Remove this unused import 'javax.persistence.GenerationType'.(ı÷õ¡8ªšÁ”»-

@@ -1,0 +1,6 @@
+
+O
+squid:S106$"9Replace this use of System.out or System.err by a logger.(γΪιά
+zsquid:UselessImportCheck"JRemove this unused import 'org.springframework.data.jpa.repository.Query'.(ΔΊφοώÿÿÿÿ8ή–Ν―Ό-
+wsquid:UselessImportCheck"LRemove this unused import 'org.springframework.data.repository.query.Param'.(©”τ8¤›°Ό-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Υλ±Δψÿÿÿÿ8ή–Ν―Ό-
